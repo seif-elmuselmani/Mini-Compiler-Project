@@ -1,0 +1,2 @@
+int age;
+age = "Twenty";
